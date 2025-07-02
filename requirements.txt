@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+llama-index
+PyMuPDF
+pytesseract
+Pillow
+chromadb
