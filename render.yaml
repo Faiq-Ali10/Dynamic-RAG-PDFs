@@ -6,4 +6,4 @@ services:
     startCommand: streamlit run frontend.py
     envVars:
       - key: GEMINI_API
-        value: "AIzaSyDVsvB8RKPPIEznj9gQ2S89cWexTPdxFhI"
+        sync: false
