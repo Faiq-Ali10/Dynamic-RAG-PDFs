@@ -2,6 +2,8 @@ streamlit
 python-dotenv
 llama-index==0.12.44
 llama-index-embeddings-google
+llama-index-llms-google
+google-generativeai
 PyMuPDF
 pytesseract
 Pillow
