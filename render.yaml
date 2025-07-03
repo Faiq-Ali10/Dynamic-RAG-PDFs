@@ -1,3 +1,6 @@
+build:
+  pythonVersion: 3.10
+
 services:
   - type: web
     name: pdf-chatbot
