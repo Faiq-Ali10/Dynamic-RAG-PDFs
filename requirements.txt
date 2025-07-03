@@ -1,10 +1,10 @@
 streamlit
 python-dotenv
 llama-index==0.12.44
-llama-index-embeddings-google
-llama-index-llms-google
-google-generativeai
+llama-index-llms-gemini==0.1.2
+llama-index-embeddings-gemini==0.1.2
+llama-index-vector-stores-chroma
+chromadb
 PyMuPDF
 pytesseract
 Pillow
-chromadb
