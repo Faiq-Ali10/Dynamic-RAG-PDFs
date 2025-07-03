@@ -11,7 +11,7 @@ This is a Streamlit-based AI chatbot that allows you to upload one or more PDF f
 
 ## 🔗 Live Demo
 
-👉 [Launch App on Render](https://dynamic-rag-pdfs.onrender.com)
+👉 [Launch App on Render](https://dynamic-rag-pdfs.onrender.com/)
 
 ---
 
