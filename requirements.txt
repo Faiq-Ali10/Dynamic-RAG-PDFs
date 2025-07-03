@@ -1,6 +1,6 @@
 streamlit
 python-dotenv
-llama-index==0.10.24
+llama-index==0.12.44
 PyMuPDF
 pytesseract
 Pillow
